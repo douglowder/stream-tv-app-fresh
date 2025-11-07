@@ -21,6 +21,14 @@
             "pictureInPicture": true
           }
         }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "buildReactNativeFromSource": true
+          }
+        }
       ]
     ],
     "android": {
